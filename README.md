@@ -1,4 +1,5 @@
 # Wanderlust
 
 
-Live project link = https://wonderlust-kit1.onrender.com
+Live project link = https://wonderlust-kit1.onrender.com/listings
+
